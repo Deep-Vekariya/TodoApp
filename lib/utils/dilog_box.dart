@@ -15,7 +15,7 @@ class DilogBox extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AlertDialog(
-      backgroundColor: Colors.pink[200],
+      backgroundColor: Colors.cyan[200],
       content: Container(
         height: 120,
         child: Column(
